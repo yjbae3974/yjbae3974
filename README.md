@@ -49,8 +49,8 @@
 <div align="center">
     <h2>📊 GitHub Stats</h2>
     <div>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yjbae3974&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjbae3974&layout=compact&theme=gradient&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yjbae3974&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjbae3974&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
     </div>
     <br/>
     <div>
